@@ -4,7 +4,7 @@
  I created this repo while undertaking my **Android Basics** with **Kotlin** journey ***@Googledev***
 
  ## Step One
- Create Two variables ie one for sstoring number of steps and the other for amount of calories burned.
+ Create Two variables ie one for storing number of steps and the other for amount of calories burned.
 ```
 
     var steps.
@@ -13,7 +13,7 @@
 
 ## Step Two
 
-Create a function ***pedometerStepsTOcalories()*** that takes number of syeps as a parameter and returns TotalCALORIESburned as a result of numberOfsteps multiplied by calories burned.
+Create a function ***pedometerStepsTOcalories()*** that takes number of steps as a parameter and returns TotalCALORIESburned as a result of numberOfsteps multiplied by calories burned.
 
 ```
 fun pedometerStepsTOcalories(NumberOFStepS: Int): Double {
